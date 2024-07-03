@@ -1,0 +1,4 @@
+.env
+.idea/
+rag_pdf/db
+__pycache__/
